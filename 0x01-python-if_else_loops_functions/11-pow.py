@@ -1,4 +1,3 @@
 #!/usr/bin/python3
-
-def pow(a, b):i
+def pow(a, b):
     return (a ** b)
