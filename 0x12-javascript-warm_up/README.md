@@ -23,7 +23,7 @@ Prototypes for functions written in this project:
   that creates a constant variable `myVar` with the value `'Javascript is amazing'`.
   * Usage: `./0-javascript_is_amazing.js`
 
-* **1. 3 languages**
+* **1.. 3 languages**
   * [1-multi_languages.js](./1-multi_languages.js): JavaScript script that prints
   three lines.
   * Usage: `./1-multi_languages.js`
